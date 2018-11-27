@@ -11,10 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/akarinaat/JOE.git"
   },
-  "author": "",
+  "author": "Karina Amador",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/akarinaat/JOE/issues"
   },
-  "homepage": "https://github.com/akarinaat/JOE#readme"
+  "homepage": "https://github.com/akarinaat/JOE#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
