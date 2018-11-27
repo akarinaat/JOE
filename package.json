@@ -1,0 +1,20 @@
+{
+  "name": "joe",
+  "version": "1.0.0",
+  "description": "Final proyect for Introduction to ISC class.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akarinaat/JOE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akarinaat/JOE/issues"
+  },
+  "homepage": "https://github.com/akarinaat/JOE#readme"
+}
